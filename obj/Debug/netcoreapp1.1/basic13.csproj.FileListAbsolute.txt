@@ -1,0 +1,8 @@
+/Applications/C#/basic13/bin/Debug/netcoreapp1.1/basic13.deps.json
+/Applications/C#/basic13/bin/Debug/netcoreapp1.1/basic13.runtimeconfig.json
+/Applications/C#/basic13/bin/Debug/netcoreapp1.1/basic13.runtimeconfig.dev.json
+/Applications/C#/basic13/bin/Debug/netcoreapp1.1/basic13.dll
+/Applications/C#/basic13/bin/Debug/netcoreapp1.1/basic13.pdb
+/Applications/C#/basic13/obj/Debug/netcoreapp1.1/basic13.AssemblyInfo.cs
+/Applications/C#/basic13/obj/Debug/netcoreapp1.1/basic13.dll
+/Applications/C#/basic13/obj/Debug/netcoreapp1.1/basic13.pdb
